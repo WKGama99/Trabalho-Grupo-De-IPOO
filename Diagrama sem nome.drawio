@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="-Tf0GIVNGfYkfCyTIRC5">
+    <mxGraphModel dx="1239" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Organizador" vertex="1">
+          <mxGeometry height="80" width="50" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Consultor" vertex="1">
+          <mxGeometry height="80" width="50" x="750" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;UC01-&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 14.6667px;&quot;&gt;&lt;font face=&quot;Aptos, sans-serif&quot;&gt;Abrir menu principal&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;UC02-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 14.6667px;&quot;&gt;&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&amp;nbsp;Gerir clubes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC01-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 11pt; line-height: 15.6933px; font-family: Aptos, sans-serif;&quot;&gt;Criar, consultar, alterar e remover os dados de um clube.&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC01-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 11pt; line-height: 15.6933px; font-family: Aptos, sans-serif;&quot;&gt;Criar, consultar, alterar e remover os dados de um clube.&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC01-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 11pt; line-height: 15.6933px; font-family: Aptos, sans-serif;&quot;&gt;Criar, consultar, alterar e remover os dados de um clube.&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC04- Criar campeonato e inscrever equipas" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC01-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 11pt; line-height: 15.6933px; font-family: Aptos, sans-serif;&quot;&gt;Criar, consultar, alterar e remover os dados de um clube.&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="mBjDqYzbCpU2AGrh-ipR-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="UC03- Gerir equipas e jogadores" vertex="1">
+          <mxGeometry height="80" width="376" x="226" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
